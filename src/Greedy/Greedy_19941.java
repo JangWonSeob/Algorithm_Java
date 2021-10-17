@@ -1,3 +1,5 @@
+package Greedy;
+
 import java.util.*;
 
 // 미완성 -> 완성 필요
